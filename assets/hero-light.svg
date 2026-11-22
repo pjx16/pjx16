@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Piyush Jaiswal: making sense of things by building them.">
+<style>
+  .serif{font-family:Georgia, 'Times New Roman', serif} .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+  .fade{}
+  .pulse{animation:pulse 1.6s ease-in-out infinite}
+  .caret{animation:blink 1.1s steps(1) infinite}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.fade,.pulse,.caret{animation:none;opacity:1}}
+  
+</style>
+<rect x=".5" y=".5" width="879" height="299" rx="14" fill="#f5f0e6" stroke="#d9d0bc"/>
+<g class="fade" style="animation-delay:0s">
+  <text x="44" y="70" class="mono" font-size="14" fill="#a84a27">~/piyush</text>
+  <text x="122" y="70" class="mono" font-size="14" fill="#5a5852">· backend engineer · chandigarh, in</text>
+</g>
+<g class="fade serif" style="animation-delay:0.15s" font-size="40" fill="#141413">
+  <text x="42" y="128">Making sense of things</text>
+  <text x="42" y="176">by <tspan font-style="italic" fill="#d97757">building</tspan> them.</text>
+</g>
+<g class="fade sans" style="animation-delay:0.35s" font-size="15" fill="#5a5852">
+  <text x="44" y="222">Lately diving deep into distributed systems,</text>
+  <text x="44" y="246">neural networks, and agentic coding.</text>
+</g>
+
+<g class="fade" style="animation-delay:0.5s">
+  <rect x="520" y="58" width="320" height="184" rx="9" fill="#ebe4d4" stroke="#d9d0bc"/>
+  <path d="M520 100H840" stroke="#d9d0bc"/>
+  <text x="542" y="84" class="mono" font-size="13" fill="#5a5852">loop.sh</text>
+  <circle class="pulse" cx="760" cy="79.5" r="3.5" fill="#d97757"/>
+  <text x="770" y="84" class="mono" font-size="13" fill="#5a5852">running</text>
+  <g class="mono" font-size="15" fill="#141413">
+    <text x="542" y="138"><tspan fill="#a84a27">while</tspan> true; <tspan fill="#a84a27">do</tspan></text>
+    <text x="560" y="170">read &amp;&amp; build &amp;&amp; write</text>
+    <text x="542" y="202"><tspan fill="#a84a27">done</tspan></text>
+  </g>
+  <rect class="caret" x="584" y="189" width="8" height="16" fill="#d97757"/>
+</g>
+</svg>
