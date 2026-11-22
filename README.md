@@ -42,17 +42,6 @@ A small storage engine written from scratch in Go, built from the lowest layer u
 </tr>
 </table>
 
-### ~/stack
-
-<p>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cgo%2Cnodejs%2Cnestjs%2Cnextjs%2Creact%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&theme=dark&perline=10">
-      <img alt="TypeScript, Go, Node.js, NestJS, Next.js, React, PostgreSQL, MongoDB, Docker, Git" src="https://skillicons.dev/icons?i=ts%2Cgo%2Cnodejs%2Cnestjs%2Cnextjs%2Creact%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&theme=light&perline=10">
-    </picture>
-  </a>
-</p>
-
 <details>
 <summary><b>~/principles</b></summary>
 <br>
