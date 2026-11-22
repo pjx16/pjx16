@@ -14,4 +14,4 @@
 
 #### 📫 Find me
 
-[piyushjaiswal.com](https://piyushjaiswal.com) · [X @pi_jaiswal](https://x.com/pi_jaiswal)
+[hi@piyushjaiswal.com](mailto:hi@piyushjaiswal.com) · [piyushjaiswal.com](https://piyushjaiswal.com) · [X @pi_jaiswal](https://x.com/pi_jaiswal)
